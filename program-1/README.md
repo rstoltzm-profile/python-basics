@@ -1,3 +1,7 @@
 # add_numbers.py
 
-Simple adds to numbers.
+Simply adds two numbers.
+
+```shell
+python .\add_numbers.py
+```
